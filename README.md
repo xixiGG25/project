@@ -33,7 +33,7 @@ cat https://ftp.cdc.gov/pub/HEALTH_STATISTICS/NCHS/datalinkage/linked_mortality/
 ### Code Development:
 
 - **Edit and Rename Provided Script**:
-  - Download, modify, and upload the provided Stata `.do` file for linking the DEMO.XPT data to mortality follow-up data. Rename this file to `followup.do` and commit it with the description: "Updated DEMO.XPT linkage .do file". In otherwords, download, modify, and upload `Stata_ReadInProgramAllSurveys.do`. You may watch the week 6 video for the key items to edit. For instance, you may edit it so that it reads in the data directly from the website.
+  - Download, modify, and upload the provided Stata `.do` file for linking the DEMO.XPT data to mortality follow-up data. Rename this file to `followup.do` and commit it with the description: "Updated DEMO.XPT linkage .do file". In otherwords, download, modify, and upload `Stata_ReadInProgramAllSurveys.do`.
 
 - **Data Merging**:
   - Execute the following Stata code to merge the survey data with the mortality data, ensuring alignment on the unique sequence numbers:
