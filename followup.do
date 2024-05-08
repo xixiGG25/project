@@ -1,6 +1,7 @@
 
-cd "C:\PUBLIC USE DATA"    // SET DIRECTORY WHERE DATA ARE LOCATED, E.G. "C:\PUBLIC USE DATA"
-global SURVEY <SURVEY>     // REPLACE <SURVEY> WITH RELEVANT SURVEY NAME (IN ALL CAPS)
+cd "/Users/chenxigao/desktop"
+global SURVEY NHANES_1999_2000
+
 * example syntax: 
 * global SURVEY NHIS_2018
 * or
